@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guess the flag</string>
+    <string name="ajustes">Settings</string>
+    <string name="conectado_google_play">Connected to Google Play</string>
+    <string name="no_conectado_google_play">Not connected</string>
+    <string name="lenguaje">Language</string>
+    <string name="terminos_condiciones">Terms and privacy</string>
+    <string name="salir">Exit</string>
+    <string name="seleccionar_idioma">Select a language</string>
+    <string name="ingles">English</string>
+    <string name="español">Spanish</string>
+    <string name="play">Play</string>
+    <string name="tienda_de_gemas">Gem Shop</string>
+    <string name="tienda">Shop</string>
+    <string name="gemas">Gems</string>
+    <string name="tus_gemas">Your Gems</string>
+    <string name="anuncio">AD</string>
+    <string name="regalos">Gifts</string>
+    <string name="sin_regalos">You have no pending gifts</string>
+    <string name="recibir">Claim</string>
+    <string name="duplicar">Double</string>
+    <string name="Seleccionar_modo_juego">Select game mode:</string>
+    <string name="elegir_dificultad">Choose Difficulty</string>
+    <string name="normal">Normal</string>
+    <string name="dificil">Hard</string>
+    <string name="borrar_letra">Remove letter</string>
+    <string name="adivina_el_personaje">Guess the flag</string>
+    <string name="parejas">Couples</string>
+    <string name="descripcion1_juego2">You will have 1 minute to guess the hidden flag.</string>
+    <string name="descripcion2_juego2">A new area will be revealed every 5 seconds. The faster you guess, the more points you get.</string>
+    <string name="descripcion1_juego3">Choose the right pairs.</string>
+    <string name="descripcion2_juego3">Match as many pairs as possible before time runs out.</string>
+    <string name="tiempo">Time:</string>
+    <string name="puntaje">Score</string>
+    <string name="puesto">Rank:</string>
+    <string name="quien_era">What country was it?:</string>
+    <string name="descripcion1_juego1">You will have less than two seconds to look at it, so pay close attention</string>
+    <string name="descripcion2_juego1">Who was the flag?</string>
+    <string name="inventario">Inventory</string>
+    <string name="volver_menu">Return to menu</string>
+    <string name="juego_finalizado">Game Over</string>
+    <string name="error_ranking">Error loading ranking: </string>
+    <string name="ranking_de_jugadores">Player ranking</string>
+    <string name="perfil">Profile</string>
+
+</resources>

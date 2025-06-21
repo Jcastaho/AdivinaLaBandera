@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Adivina la bandera</string>
+    <string name="ajustes">Configuraciones</string>
+    <string name="conectado_google_play">Conectado con google play</string>
+    <string name="no_conectado_google_play">No conectado</string>
+    <string name="lenguaje">Lenguaje</string>
+    <string name="terminos_condiciones">Terminos y privacidad</string>
+    <string name="salir">Salir</string>
+    <string name="seleccionar_idioma">Selecciona un idioma</string>
+    <string name="ingles">Inglés</string>
+    <string name="español">Español</string>
+    <string name="play">Jugar</string>
+    <string name="tienda_de_gemas">Tienda de gemas</string>
+    <string name="tienda">Tienda</string>
+    <string name="gemas">Gemas</string>
+    <string name="tus_gemas">Tus Gemas</string>
+    <string name="anuncio">ANUNCIO</string>
+    <string name="regalos">Regalos</string>
+    <string name="sin_regalos">No tienes regalos pendientes</string>
+    <string name="recibir">Recibir</string>
+    <string name="duplicar">Duplicar</string>
+    <string name="Seleccionar_modo_juego">Seleccionar modo de juego:</string>
+    <string name="elegir_dificultad">Elegir Dificultad</string>
+    <string name="normal">Normal</string>
+    <string name="dificil">Dificil</string>
+    <string name="borrar_letra">Borrar letra</string>
+    <string name="adivina_el_personaje">Adivina la bandera</string>
+    <string name="parejas">Parejas</string>
+    <string name="descripcion1_juego2">Tendrás 1 minuto para adivinar la bandera oculta.</string>
+    <string name="descripcion2_juego2">Cada 5 segundos se mostrará una nueva área. Mientras más rápido lo hagas, más puntaje obtendrás.</string>
+    <string name="descripcion1_juego3">Elige las parejas correctas.</string>
+    <string name="descripcion2_juego3">Junta la mayor cantidad de parejas antes de que el tiempo se agote.</string>
+    <string name="tiempo">Tiempo:</string>
+    <string name="puntaje">Puntaje</string>
+    <string name="puesto">Puesto:</string>
+    <string name="quien_era">¿Que país era?:</string>
+    <string name="descripcion1_juego1">Tendrás menos de dos segundos para mirarlo, así que presta mucha atención</string>
+    <string name="descripcion2_juego1">¿Cual era la bandera?</string>
+    <string name="inventario">Inventario</string>
+    <string name="volver_menu">Volver al menu</string>
+    <string name="juego_finalizado">Juego Finalizado</string>
+    <string name="error_ranking">Error al cargar el ranking: </string>
+    <string name="ranking_de_jugadores">Ranking de jugadores</string>
+    <string name="perfil">Perfil</string>
+
+
+
+
+    <string translatable="false" name="game_services_project_id">773513531437</string>
+</resources>

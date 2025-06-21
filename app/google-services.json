@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "97933783915",
+    "project_id": "adivinaelpersonaje-a610e",
+    "storage_bucket": "adivinaelpersonaje-a610e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97933783915:android:cfe1b0e317e0c3ad35d22e",
+        "android_client_info": {
+          "package_name": "com.straccion.adivinaelanimal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7YenlsufLXohAo2q9lOOIYToCV_hXtuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97933783915:android:527f3f95115c6dd835d22e",
+        "android_client_info": {
+          "package_name": "com.straccion.adivinaelobjeto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7YenlsufLXohAo2q9lOOIYToCV_hXtuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97933783915:android:9e0d0830798f699e35d22e",
+        "android_client_info": {
+          "package_name": "com.straccion.adivinaelpersonaje"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7YenlsufLXohAo2q9lOOIYToCV_hXtuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97933783915:android:da85cbebbc2ad52f35d22e",
+        "android_client_info": {
+          "package_name": "com.straccion.adivinaelpersonaje.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7YenlsufLXohAo2q9lOOIYToCV_hXtuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97933783915:android:d4396dbbe87dc05e35d22e",
+        "android_client_info": {
+          "package_name": "com.straccion.adivinalabandera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7YenlsufLXohAo2q9lOOIYToCV_hXtuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
